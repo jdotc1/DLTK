@@ -1,3 +1,13 @@
+## Reference workflows for learning from medical images
+
+This is a development fork of [DLTK](https://github.com/DLTK/DLTK), a TensorFlow-based toolkit for medical-image analysis. Upstream includes tutorial notebooks and example applications for studying image readers, model functions, and neural-network workflows. Its documented setup uses the TensorFlow 1.x era toolchain, making the examples particularly relevant to understanding or revisiting that research code.
+
+**Contribution to review:** [PR #70](https://github.com/DLTK/DLTK/pull/70) proposes validating selected TAR members when extracting the IXI example dataset. The change is limited to dataset preparation and remains an upstream proposal.
+
+Use the [official API documentation](https://dltk.github.io/) and the installation and tutorial links below to understand the expected environment. The upstream citations and model-zoo references are retained. See the [branch comparison](https://github.com/DLTK/DLTK/compare/master...jdotc1:master) for this fork's default branch.
+
+---
+
 ## Deep Learning Toolkit (DLTK) for Medical Imaging
 [![Gitter](https://badges.gitter.im/DLTK/DLTK.svg)](https://gitter.im/DLTK/DLTK?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Coverage Status](https://coveralls.io/repos/github/DLTK/DLTK/badge.svg?branch=master)](https://coveralls.io/github/DLTK/DLTK?branch=dev)
